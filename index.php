@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/stylesheet.css">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
     <script type="text/javascript" src="js/jquery.jcarousel.js"></script>
     <script type="text/javascript" src="js/jquery-func.js"></script>
@@ -62,7 +63,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="panel-footer">Not Registered? <a href="#" class="">Register here</a>
+                <div class="panel-footer">Not Registered? <a href="#" class="register.php">Register here</a>
 
                 </div>
             </div>
@@ -127,7 +128,7 @@
         	<h2>Ready to know more about Eco-friendly inventions</h2>
           <h3>If you are ready ,Press the button below!!!!</h3>
 		</div>
-        <span class="btn message">Sign Up</span>
+        <a href="register."><span class="btn message">Sign Up</span></a>
       </div>
     </div>
     <footer>
@@ -180,5 +181,4 @@ window.onclick = function(event) {
         modal.style.display = "none";
     }
 }
-
 </script>
