@@ -36,7 +36,7 @@
           <span class="close">&times;</span>
         </div>
                 <div class="panel-body">
-                    <form class="form-horizontal" role="form">
+                    <form class="form-horizontal" role="form" action="checklogin.php" method="POST">
                         <div class="form-group">
                             <label for="inputEmail3" class="col-sm-3 control-label">Email</label>
                             <div class="col-sm-9">
@@ -76,7 +76,8 @@
 
     <div class="top-wrapper">
       <div class="container">
-        <div id="earth"></div>
+        <div id="earth" style="float: left;"></div>
+        <div style="width: 700px; height: 200px; float: right;"><h2 style="text-align: left;color: black; padding-right: 50px; margin-left: 0px;"><q>The only way forward, if we are going to improve the quality of the environment, is to get everybody involved<br>     -Richard Rogers</q></h2></div>
       </div>
     </div>
     <div class="container">
@@ -143,8 +144,8 @@
       	<img class="footer-logo" src="" alt="logo">
 		<ul class="list">
 			<li><a href="#">About</a></li>
-			<li><a href="#">Gallery</a></li>
-			<li><a href="#">Contact Us</a></li>
+			<li><a href="gallery.php">Gallery</a></li>
+			<li><a href="contact.php">Contact Us</a></li>
 		</ul>
       </div>
     </footer>

@@ -52,8 +52,9 @@
     </div>
     <br><br><br><br><br><br><br><br><br><br><br><br>
     <div>
-      
+      <br><br><br><br>
     </div>
+    <br><br><br><br>
     <footer>
     <br>
       <div class="container">
@@ -63,9 +64,9 @@
 			<li><a href="#">About</a></li>
 			<li><a href="#">Gallery</a></li>
 			<li><a href="#">Contact Us</a></li>
-		</ul> 
+		</ul>
       </div>
     </footer>
-    
+
   </body>
 </html>
