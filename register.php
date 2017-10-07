@@ -11,8 +11,8 @@
   <!-- Tell the browsers to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 </head>
-<body class="container-fluid">
-  <div class="container">
+<body>
+  <div class="container" style="padding-right: 200px; padding-top: 20px;">
     <div class="row">
       <div class="col-md-4 col-md-offset-7">
           <div class="panel panel-default">
